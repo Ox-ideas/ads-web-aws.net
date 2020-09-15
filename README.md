@@ -9,6 +9,7 @@ Currently completed work on authentication which includes user registration, acc
 
 Endpoints for the listing using ASP.NET Rest APIs.
 
-Frontend deisgn and reusable components using React.
+Frontend design and reusable components with React.
 
-*This is an ongoing concept project and currently works on its features during my spare time. --,
+
+*This is an ongoing concept project and currently works on its features only during my spare time. Touché  --,
