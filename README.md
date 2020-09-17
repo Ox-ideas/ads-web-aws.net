@@ -2,7 +2,7 @@
 Create and list personal advertisements for a product and/or service.
 
 #### Progress
-Currently completed work on authentication which includes user registration, account creation confirmation, login and logout. Technologies used include AWS Cognito, IAM and .Net Core 3.1 (ASP.NET MVC and Razor Views).
+Currently completing work on authentication which includes user registration, account creation confirmation, login and logout. Technologies used include AWS Cognito, IAM and .Net Core 3.1 (ASP.NET MVC and Razor Views).
 
 
 #### Next up 
